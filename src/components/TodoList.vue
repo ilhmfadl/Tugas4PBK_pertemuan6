@@ -77,7 +77,7 @@ const loading = ref(false)
 const error = ref('')
 const editId = ref(null)
 const editTitle = ref('')
-const API_URL = 'http://localhost:3000/todos'
+const API_URL = 'https://juicy-repeated-venus.glitch.me/articles'
 
 const loadTodos = async () => {
   loading.value = true
