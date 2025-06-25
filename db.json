@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Belajar Vue Composition API",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Buat Todo List dengan Axios",
+      "completed": true
+    },
+    {
+      "id": "b488",
+      "title": "dfsaf",
+      "completed": false
+    },
+    {
+      "id": "fa7e",
+      "title": "belajar vue",
+      "completed": false
+    },
+    {
+      "id": "35f7",
+      "title": "sdafsdf",
+      "completed": false
+    }
+  ]
+}
